@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nsk2021
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently developing my data analysis skills
 - 📫 How to reach me saikalyan384@gmail.com
 
 <!---
