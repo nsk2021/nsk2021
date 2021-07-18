@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nsk2021
-- 👀 I’m interested in Data Analytics
+- 👋 Hi, I’m @Sai Kalyan Nadella
+- 👀 I’m interested in Learning new data analytics tools
 - 📫 How to reach me saikalyan384@gmail.com
 
 <!---
